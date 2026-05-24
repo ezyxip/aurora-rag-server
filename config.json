@@ -1,0 +1,8 @@
+{
+  "listen_addr": ":8080",
+  "llama_url": "http://localhost:8081",
+  "qdrant_url": "http://localhost:6333",
+  "qdrant_collection": "documents",
+  "embedding_size": 1024,
+  "default_top_k": 5
+}
